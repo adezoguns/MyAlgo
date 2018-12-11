@@ -1,0 +1,2 @@
+# MyAlgo
+Simple common algorithms
