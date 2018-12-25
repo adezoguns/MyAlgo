@@ -94,5 +94,4 @@ if __name__=="__main__":
    #print( Bubblesort(arr1))
    #print (Mergesort(arr1))
    #print (LinearSearch(arr1, 0))
-   #MergeSearch(arr1, 9)
    print(Quicksort(arr1))
